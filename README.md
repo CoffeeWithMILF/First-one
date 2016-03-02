@@ -8,5 +8,3 @@
 - Předmět na Masarykově univerzitě [VIKBA07 Nástroje a možnosti internetu](http://is.muni.cz/predmet/phil/jaro2016/VIKBA07).
 - Něco málo o metodě výuky v tomto předmětu [blended learning](https://cs.wikipedia.org/wiki/Blended_learning).
 - V odkazu najdete [video](https://www.youtube.com/watch?v=3xMqJmMcME0) z YouTube popisující metodu *blended learning*.
----
-
